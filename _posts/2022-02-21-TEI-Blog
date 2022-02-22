@@ -1,21 +1,2 @@
-I was assigned to code a short passage from _Dracula_ by Bram Stoker using the Text Encoding Initiative (TEI). The process began by marking specific parts of the passage in 
-Google Docs to outline where I would be inserting the code. Then I used a coding editor program called Oxygen that uses XML, or Extensible Markup Language. 
 
-#### Using Google Docs
-
-At the beginning of the project, I went through the manuscript of my assigned passage in Google Docs. By using the comments feature, I highlighted where certain features would be 
-necessary while coding. Due to the short length of the passage, I mainly had a few em-dashes and quotations to add so there wasn’t too much that I had to code. This made it less 
-intimidating when I actually had to code everything on Oxygen.
-
-#### Using Oxygen
-
-Because of my background in computer science, I was already familiar with how to code some of the features that were used on Oxygen. Features such as <body></body> for the body of 
-the texts or <p></p> for each paragraph I use daily when doing my assignments for my class on website design. &#8212; used to mark an em-dash was new to me because I typically do 
-not use em-dashes. Placing this feature was very particular due to that I had to put it directly by the word without a space in between. I also kept on forgetting to add the ; at 
-the end of that feature which will cause the “&#8212” to show up in the text instead of —-.
-
-Although coding is the language of the future, it is not something that I look forward to doing despite my previous and current enrollment in computer science classes. When I found
-out that we were going to code for this assignment I was not excited due to my lack of enthusiasm for the subject. However, I actually enjoyed doing the project more than I 
-anticipated. The concept was simple overall and good practice for my website design class. These skills that I learned from this assignment will be beneficial to me for anything 
-in the future.
 
