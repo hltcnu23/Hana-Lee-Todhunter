@@ -1,3 +1,5 @@
+# Class Reflections
+
 ### Digital Humanities
 
 As a Digital Humanities minor, I have previously taken classes on this field of study. Therefore, I already had background knowledge on the subject prior to taking this class. At the beginning of this semester, I wrote my own definition on Digital Humanities. I wrote _“Digital Humanities is the adding of the digital element to enhance our understanding and research on humanities.”_ As I am finishing the course, my definition remains the same. All assignments, readings, and research that we did during the semester reiterated my initial interpretation of the Digital Humanities field. They also furthered my understanding on the subject matter.
