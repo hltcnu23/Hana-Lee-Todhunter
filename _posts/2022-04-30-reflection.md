@@ -10,6 +10,8 @@ All assigned readings throughout the semester were necessary and helpful for the
 
 This article was helpful because I learned how the website design affects how readers consume information. In fact, I identified as the “Layered Cake” pattern when reading for academics or just for fun. I applied what I learned from the article to my web design class when creating a website. I wanted my website to be visually appealing and not overwhelming to read any information. Not only was I able to capture the interest of readers for my website, but I was able to do so on the blogs and other projects in this course.
 
+![Layered Cake](https://user-images.githubusercontent.com/97922448/166128645-99d6dc67-dfb5-4a61-8751-f29e852ecbef.jpg)
+
 #### Sh***y First Drafts
 
 Typically, I struggle to start writing my papers due to my unrealistic desire to be perfect. This unnecessary pressure makes me self-conscious about my writing, especially when sharing my works with others. Thankfully, this article boosted my confidence when approaching my assignments. It taught me that first drafts are not meant to be perfect. In fact, it is acceptable for them to be bad. The flexibility that a first draft has for brainstorming allows for experimentation with any potential ideas. Overall, it was relieving to learn that all writers, whether professional or not, go through this process of having a “sh***y first draft.” 
@@ -17,6 +19,8 @@ Typically, I struggle to start writing my papers due to my unrealistic desire to
 ### Assignments
 
 I enjoyed writing blogs because I liked how the style was less formal which made each blog seem personal. The setup of the blogs are interesting and engaging. Therefore, it makes it quicker for me to read as well as anyone who comes across them. My favorite blog I wrote was the _About Me Blog_. I loved getting to know my classmates through this assignment, especially since we were online the first two weeks. Each peer added their own “flair” to the blog which enabled me to envision their personality even though we were not together in person. It was really cool learning about where they come from, their life aspirations, and other various unique facts.
+
+![First Blog](https://user-images.githubusercontent.com/97922448/166128656-32c2cfce-d554-44f6-8e17-71f465905687.jpg)
 
 Another assignment I enjoyed was the **TEI coding**. I had been using a similar coding language in another class this semester so it reinforced everything I had already been learning. Although breaking down the text and encoding it was satisfying, I did not find blogging about it to be as exciting. In my opinion _(and possibly a few other classmates)_,  there was not much to be said about the coding process since it was short. I found it difficult to reflect on an assignment that was so simple and short-lived. It did not provided enough substance to write about.
 
